@@ -1,0 +1,47 @@
+/*icon*/
+/*图标样式*/
+.icon_back,
+.icon_tips,
+.icon_cord,
+.icon_line,
+.icon_count{
+    display: inline-block;
+    width: 0.2rem;
+    height: 0.2rem;
+    vertical-align: middle;
+}
+
+/*头部返回*/
+.icon_back {
+    background: url(../../../images/jcdata/icon-back.png) center no-repeat;
+    background-size: .13rem .21rem;
+    height: .21rem;
+    position: relative;
+    top: 0
+}
+
+.icon_tips{
+    background: url("../../../images/jcdata/icon-tips.png") center no-repeat;
+    background-size: 0.18rem 0.18rem;
+}
+
+.icon_sum{
+    background: url("../../../images/jcdata/icon-sum.png") center no-repeat;
+    background-size: 0.18rem 0.18rem;
+}
+.icon_cord{
+    background: url("../../../images/jcdata/icon_cord.png") center no-repeat;
+    background-size: 0.18rem 0.18rem;
+}
+
+.icon_line{
+    background: url("../../../images/jcdata/icon_line.png") center no-repeat;
+    background-size: 0.18rem 0.18rem;
+}
+.icon_count{
+    width: 0.26rem;
+    height: 0.26rem;
+    background:#ff690c url("../../../images/jcdata/icon_sum.png") center no-repeat;
+    border-radius: 50%;
+    background-size: 0.26rem 0.26rem;
+}

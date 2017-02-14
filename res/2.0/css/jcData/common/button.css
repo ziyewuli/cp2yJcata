@@ -1,0 +1,12 @@
+.btn{
+    display:inline-block;
+    -webkit-border-radius:7px;
+    -moz-border-radius:7px;
+    border-radius:7px;
+    text-align: center;
+}
+.btn-blue{
+    background:#2889ea;
+    border:1px solid #2889ea;
+    color:#ffffff;
+}
